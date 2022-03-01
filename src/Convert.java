@@ -26,7 +26,7 @@ public class Convert {
         int c;
 
         reader = new FileReader("ressource/vide.txt");
-        writer = new FileWriter("GoSecuri/index.html");
+        writer = new FileWriter("ressource/HtmlPage/index.html");
 
         writer.write("<!DOCTYPE html>\n<html>\n\t<head>\n\t\t<meta charset='utf-8' />\n\t\t<title>Accueil</title>\n\t\t<link rel=\"stylesheet\" href=\"style.css\">\n\t\t<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>\n\t</head>\n\t<body>\n"); //ecrire le début du fichier index.html
         writer.write("\n<div id='logo'>\n\t<img id='gosecuri' src=\"/jpg/GoSecuri.jpg\" alt=\"logo of GoSecuri\">\n</div>\n<div id='agents'>");
