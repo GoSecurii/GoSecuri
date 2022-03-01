@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c11c32a6-c00b-415a-84e5-71ae8f0e10b5" name="Changes" comment="Merge commit '82cae33d5d10e7ecd73e6e0f1904ab2061d1d7de' into wejdene">
-      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/index.html" afterDir="false" />
+    <list default="true" id="c11c32a6-c00b-415a-84e5-71ae8f0e10b5" name="Changes" comment="Merge commit '2ac5457da5f15554fecb1f367d932292b5aa7c27'">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Convert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Convert.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GoSecuri/Convert.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GoSecuri/Convert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressource/HtmlPage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ressource/HtmlPage/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646178064469</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Merge commit '2ac5457da5f15554fecb1f367d932292b5aa7c27'">
+      <created>1646178503434</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646178503434</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
