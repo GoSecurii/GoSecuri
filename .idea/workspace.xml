@@ -4,7 +4,79 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c11c32a6-c00b-415a-84e5-71ae8f0e10b5" name="Changes" comment="first commit" />
+    <list default="true" id="c11c32a6-c00b-415a-84e5-71ae8f0e10b5" name="Changes" comment="first commit">
+      <change afterPath="$PROJECT_DIR$/.idea/GoSecuri.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/.afoley" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/.cberthier" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/.htpasswd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/.jmacclane" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/.jrouletabille" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/.jwest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/.mriggs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/.sconnor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/.sholmes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/afoley.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/cberthier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/jmacclane.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/jpg/afoley.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/jpg/cberthier.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/jpg/jmacclane.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/jpg/jrouletabille.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/jpg/jwest.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/jpg/mriggs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/jpg/sconnor.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/jpg/sholmes.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/jrouletabille.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/jwest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/mriggs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/sconnor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/sholmes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/HtmlPage/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/txt/afoley.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/txt/cberthier.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/txt/jmacclane.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/txt/jrouletabille.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/txt/jwest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/txt/mriggs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/txt/sconnor.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/txt/sholmes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ressource/vide.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-cli/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-cli/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/liste.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ressource/liste.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/staff.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ressource/staff.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/temp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ressource/HtmlPage/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ressource/vide2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/afoley.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/afoley.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/cberthier.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/cberthier.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/jmacclane.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/jmacclane.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/jrouletabille.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/jrouletabille.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/jwest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/jwest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/mriggs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/mriggs.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/sconnor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/sconnor.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/sdiouf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/sholmes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ressources/txtfile/sholmes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,8 +88,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -29,21 +101,35 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="25ngRrFOlseyVaOKSb5r2svbdiT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ressources/web/jpg" />
       <recent name="$PROJECT_DIR$/ressources" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -53,7 +139,14 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GoSecuri" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main" />
       <module name="GoSecuri" />
@@ -64,6 +157,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -98,6 +192,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
