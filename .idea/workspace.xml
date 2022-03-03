@@ -4,6 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c11c32a6-c00b-415a-84e5-71ae8f0e10b5" name="Changes" comment="Merge commit '2ac5457da5f15554fecb1f367d932292b5aa7c27'">
       <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -16,6 +17,9 @@
       <change beforePath="$PROJECT_DIR$/src/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Login.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
     </list>
+=======
+    <list default="true" id="c11c32a6-c00b-415a-84e5-71ae8f0e10b5" name="Changes" comment="Merge commit '82cae33d5d10e7ecd73e6e0f1904ab2061d1d7de' into wejdene" />
+>>>>>>> 20b36501286262e1d2b76d898d7e116a6f4abadb
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
