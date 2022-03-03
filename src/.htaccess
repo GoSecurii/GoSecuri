@@ -1,0 +1,9 @@
+AuthUserFile "/home/var/www/gosecuri.fr/GoSecuri/src/.htpasswd"
+
+
+AuthName "Veuillez vous identifier"
+AuthType Basic 
+
+<Limit Get Post>
+require valid-user
+</Limit>
