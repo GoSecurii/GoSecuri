@@ -5,7 +5,7 @@ import java.util.*;
 public class main {
     public static void main(String[] args) throws IOException {
         //création de index.html
-        new FileOutputStream("./index.html", false).close();
+        new FileOutputStream("./login.html" + "./index.html", false).close();
     }
 
 
